@@ -1,2 +1,6 @@
-package com.company;public class Function {
+package com.company;
+
+public class Function {
+
+
 }
